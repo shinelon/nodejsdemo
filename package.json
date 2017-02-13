@@ -1,0 +1,23 @@
+{
+  "name": "dltdemo",
+  "version": "1.0.0",
+  "description": "nodejsdemo",
+  "main": "dltdemo.js",
+  "dependencies": {
+	"cheerio":"*",
+	"hashmap":"*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinelon/nodejsdemo.git"
+  },
+  "author": "shinelon",
+  "bugs": {
+    "url": "https://github.com/shinelon/nodejsdemo/issues"
+  },
+  "homepage": "https://github.com/shinelon/nodejsdemo#readme"
+}
